@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>Arsenii CV</title>
+    <title>Maria </title>
     <link href="styles.css" rel="stylesheet" />
   </head>
   <body>
@@ -11,7 +11,7 @@
         <img src="я.jpg" alt="это я" class="avatar" />
 
         <div class="info-text">
-          <h1>Arsenii Rozhkov</h1>
+          <h1>Maria Pirmatova</h1>
           <p>Я студент, <strong> Колледжа Связи №54 </strong></p>
           <p> Люблю Шрека, природу и с детства увлекаюсь шахматами.</p>
 
