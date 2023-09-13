@@ -1,0 +1,11 @@
+body {
+    background-color:rgb(19, 1, 17);
+}
+body{
+    color: white;
+}
+.info{
+    background-color:rgb(68, 46, 63) ;
+    width: 450px;
+    border-radius: 25px;
+}
