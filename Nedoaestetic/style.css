@@ -1,11 +1,21 @@
 body {
-    background-color:rgb(19, 1, 17);
+    background-color:rgb(194, 167, 191);
 }
 body{
     color: white;
 }
 .info{
-    background-color:rgb(68, 46, 63) ;
+    background-color:rgb(239, 221, 235) ;
     width: 450px;
-    border-radius: 25px;
+    border-radius: 55px;
+    font-family:'Times New Roman', Times, serif ;
+    font-size: larger;
+}
+.info 
+div p{
+    color: black;
+}
+.gif{
+    margin-left: 60px; 
+    
 }
