@@ -19,3 +19,16 @@ div p{
     margin-left: 60px; 
     
 }
+.about
+ul{
+    list-style: disc;
+}
+.about{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 6px 5px 5px rgb(78, 42, 54);
+    
+}
+.about
+p{
+    font-size: x-large;
+}
