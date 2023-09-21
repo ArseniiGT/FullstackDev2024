@@ -1,0 +1,25 @@
+body {
+    background-color:#B7A78F;
+    color: rgb(31, 9, 53);
+    text-indent: 30em;
+ }
+
+.A1{
+    background-color: #cbc2a5;
+    height: 350px;
+    width: 350px;
+    margin-left: 6em;
+    box-shadow: 15px 15px blanchedalmond;
+    text-indent:0em;
+    border-radius: 4%;
+    }
+
+.B1{
+    background-color: #cbc2a5;
+    height: 197px;
+    width: 400px;
+    margin-left: 31em;
+    box-shadow: 15px 15px blanchedalmond;
+    text-indent: 1em;
+}
+
