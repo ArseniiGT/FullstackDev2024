@@ -19,6 +19,7 @@ div p{
     margin-left: 60px; 
     
 }
+
 .about
 ul{
     list-style: disc;
@@ -31,4 +32,16 @@ ul{
 .about
 p{
     font-size: x-large;
+}
+.card1{
+    background-color:rgb(194, 167, 191);
+}
+.card2{
+    background-color:rgb(194, 167, 191);
+}
+.card3{
+    background-color:rgb(194, 167, 191);
+}
+div .table{
+    background-color:rgb(194, 167, 191);
 }
