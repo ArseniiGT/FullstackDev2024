@@ -1,0 +1,23 @@
+#one {
+    position: static;
+    background: red;
+    width: 200px;
+    height: 200px;
+
+}
+#two {
+    position: relative;
+    top: 20px;
+    left: 100px;
+    background: blue;
+    width: 200px;
+    height: 200px;
+}
+#three {
+    position: relative;
+    top: 40px;
+    left: 200px;
+    background: green;
+    width: 200px;
+    height: 200px;
+}
