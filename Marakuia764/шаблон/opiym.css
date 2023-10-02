@@ -1,0 +1,60 @@
+.catalog{
+    position: relative;
+    color: black;
+}
+.catalog img{
+    width: 1987px;
+    height: 900px;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+}
+.catalog span{
+    position: absolute;
+    color: black;
+    left: 80px;
+    top: 155px;
+    font-size: 40px;
+}
+.q{
+    background-color: azure;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.cards1 img{
+    height:650px;
+    width: 550px;
+}
+.container{
+    font-size: 1.4rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
